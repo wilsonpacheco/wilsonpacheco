@@ -13,7 +13,7 @@
 
 ### 📃 Sobre
 
-Estudo de Desenvolvimento em SQL e PL/SQL e estou compartilhando meu aprendizado.
+
 
 
 ### 📺 Prévia
