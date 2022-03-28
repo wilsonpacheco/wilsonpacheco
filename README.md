@@ -7,8 +7,8 @@
 
 ### 📃 Sobre
 
-<p align="center">Estudo de Desenvolvimento em SQL e PL/SQL e compartilho meu aprendizado>
-Este repositório contem o consumo da API em [NODEJS](https://github.com/wilsonpacheco) com REACT NATIVE.
+Estudo de Desenvolvimento em SQL e PL/SQL e estou compartilhando meu aprendizado.
+
 
 ### 📺 Prévia
 ![previa](https://github.com/wilsonpacheco/Projeto-Ferias)
