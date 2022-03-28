@@ -7,7 +7,7 @@
 
 ### 📃 Sobre
 
-Este repositório contem o consumo da API em [NODEJS](https://github.com/joaotorresmarques/GoStack-DESAFIO01) com REACT NATIVE.
+Este repositório contem o consumo da API em [NODEJS](https://github.com/wilsonpacheco) com REACT NATIVE.
 
 ### 📺 Prévia
 ![previa](https://i.ibb.co/7CqHcpF/celular.jpg)
