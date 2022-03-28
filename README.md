@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://i.ibb.co/zFDDm5s/Go-Stack-Logo.png" alt="GoStack"/>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/wilsonpacheco"><i>Wilson Pacheco</i></a> 😃️</h1>
 </p>
 
 🚀 [Sobre o desafio](https://github.com/brunodesde1987/desafio-conceitos-react-native)
