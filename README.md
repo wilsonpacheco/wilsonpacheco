@@ -17,7 +17,7 @@
 
 
 ### 📺 Prévia
-![previa](https://github.com/wilsonpacheco/Projeto-Ferias)
+![previa]()
 
 ### ⚙️ Rodando o desafio
 Primeiramente executar `yarn` para instalar as dependências e após, executar `yarn ANDROID` para iniciar o projeto. (Este repositorio faz consumo de API, necessariamente precisa estar com ela rodando)
