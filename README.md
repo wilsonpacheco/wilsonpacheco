@@ -10,7 +10,7 @@
 Este repositório contem o consumo da API em [NODEJS](https://github.com/wilsonpacheco) com REACT NATIVE.
 
 ### 📺 Prévia
-![previa](https://i.ibb.co/7CqHcpF/celular.jpg)
+![previa](https://github.com/wilsonpacheco/Projeto-Ferias)
 
 ### ⚙️ Rodando o desafio
 Primeiramente executar `yarn` para instalar as dependências e após, executar `yarn ANDROID` para iniciar o projeto. (Este repositorio faz consumo de API, necessariamente precisa estar com ela rodando)
