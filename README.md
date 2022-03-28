@@ -28,5 +28,5 @@ Executar `yarn test` a fim de executar os testes automatizados.
 - [x] Pequenas alteração no layout
 
 <p align="center">
-Feito com 💛 por João Marcos
+Feito com 💛 por Wilson Pacheco
 </p>
